@@ -24,19 +24,19 @@ heroimage: /assets/images/DRCOG.png
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: rezt1.240910@gmail.com
-facebook_username: /
-twitter_username: /
-instagram_username: /
-linkedin_username: /
-github_username:  /
+facebook_username:
+twitter_username:
+instagram_username:
+linkedin_username:
+github_username:
 youtube_channel_id: REZT1-w1c
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+reddit_username:
+behance_username:
+dribbble_username:
+spotify_username:
 
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics:
 
 # Disqus
 disqus-shortname: thedevslot
