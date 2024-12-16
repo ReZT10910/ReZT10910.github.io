@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://rezt1.site/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
@@ -11,9 +11,9 @@ title: Re:ZT1
 # Description of the Site
 description: DR.COG Available 2024.12.17
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /assets/images/DRCOG.png
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Re:ZT1, DR.COG
 # URL for the Image of custom Favicon
 favicon-url: 
 
